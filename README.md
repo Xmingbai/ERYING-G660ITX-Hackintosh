@@ -1,0 +1,2 @@
+# ERYING-G660ITX-Hackintosh
+兼容i7-12700H 、i7-12650H、i5-12500H
