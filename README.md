@@ -2,18 +2,17 @@
 
 # 兼容不同CPU i7-12700H 、i7-12650H、i5-12500H
 
-# Ver1.0 OC090正式版 支持Catalina 10.15.x、big sur 11.x、Monterey 12.x、Ventura 13.x
+☆ Ver1.0 OC090正式版 支持Catalina 10.15.x、big sur 11.x、Monterey 12.x、Ventura 13.x
 
+☆ 双有线网卡正常
 
-双有线网卡正常
+☆ WiFi、蓝牙正常，搭配黑果无线网卡能实现隔空投送、通用控制等功能体
 
-WiFi、蓝牙正常，搭配黑果无线网卡能实现隔空投送、通用控制等功能体
+☆ 声卡正常
 
-声卡正常
+☆ 定制15个USB， 包括TYPE-C都能正常使用
 
-定制15个USB， 包括TYPE-C都能正常使用
-
-睡眠与唤醒皆正常，支持USB键鼠唤醒
+☆ 睡眠与唤醒皆正常，支持USB键鼠唤醒
 
 
 ![](https://github.com/Xmingbai/ERYING-G660ITX-Hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
