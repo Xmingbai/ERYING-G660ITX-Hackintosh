@@ -1,7 +1,8 @@
 # ERYING-G660ITX-Hackintosh
-兼容不同CPU i7-12700H 、i7-12650H、i5-12500H
+# 兼容不同CPU i7-12700H 、i7-12650H、i5-12500H
 
 # Ver1.0 OC090正式版 支持Catalina 10.15.x、big sur 11.x、Monterey 12.x、Ventura 13.x
+
 
 双有线网卡正常
 
