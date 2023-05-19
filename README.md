@@ -4,7 +4,7 @@
 
 # 参考说明指南：https://www.bilibili.com/read/cv22841579 (白嫖党三连支持一下)
 
-☆ Ver1.0 OC090正式版 支持Catalina 10.15.x、big sur 11.x、Monterey 12.x、Ventura 13.x 下载引导看Releases
+☆ Ver1.0 OC090正式版 支持Catalina 10.15.x、big sur 11.x、Monterey 12.x、Ventura 13.2 下载引导看Releases
 
 ☆ 双有线网卡正常
 
